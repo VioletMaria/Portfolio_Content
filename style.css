@@ -1,0 +1,17 @@
+img {
+    width: 110px;
+    height: 100px;
+    margin: 10px;
+}
+
+th, td {
+    border-left: 2px dotted black;
+    border-bottom: 2px dotted black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    margin: 10px;
+}
